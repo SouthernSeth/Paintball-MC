@@ -1,0 +1,14 @@
+# MySQL Information #
+host: 'localhost'
+port: '3633'
+username: 'username'
+password: 'password'
+database: 'database'
+
+# SQLite Information #
+enable: true
+
+# Paintball Config #
+download_default_maps: false
+worlds:
+- 'paintball_demo_map'

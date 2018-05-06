@@ -1,0 +1,10 @@
+name: SpigotPaintball
+description: Paintball Minigame Plugin
+main: com.jordan.paintball.SpigotPaintball
+author: SavageSeth
+version: 1.9
+commands:
+  paintball:
+    description: main command for SpigotPaintball
+  hub:
+    description: return to hub
